@@ -1,0 +1,6 @@
+{
+  "name": "Maison de L'Aura Fashion House",
+  "description": "High-end contemporary fashion e-commerce experience featuring AI style advisor, virtual outfit builder, interactive 3D showroom, and curated lookbooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
